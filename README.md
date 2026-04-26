@@ -75,3 +75,25 @@ python main.py
 - Database design and storage with SQLAlchemy.
 - Pipeline scheduling and production logging.
 - Clean project structure for data engineering.
+
+## Contributing
+
+Contributions are welcome! Here are some ideas to get started:
+
+- Add more coins beyond the current 5
+- Add email or Telegram alerts when anomalies are detected
+- Migrate from SQLite to PostgreSQL
+- Add a Kafka streaming layer for real time ingestion
+- Write unit tests for the cleaning and anomaly detection logic
+- Add a Dockerfile for containerized deployment
+
+### How to contribute
+
+1. Fork the repo
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Make your changes
+4. Commit (`git commit -m "add: your feature description"`)
+5. Push (`git push origin feature/your-feature-name`)
+6. Open a Pull Request
+
+Feel free to open an issue first if you want to discuss an idea before building it.
