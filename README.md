@@ -55,11 +55,17 @@ python main.py
 ## Sample output
 
 2026-04-26 10:00:01 | INFO | Pipeline started.
+
 2026-04-26 10:00:02 | INFO | Fetched 5 records.
+
 2026-04-26 10:00:02 | INFO | Data cleaning complete.
+
 2026-04-26 10:00:02 | INFO | Saved 5 rows to database.
+
 2026-04-26 10:00:02 | WARNING | 1 anomalies detected:
+
 2026-04-26 10:00:02 | WARNING | solana | price: $142.3 | 24h change: -8.5%
+
 2026-04-26 10:00:02 | INFO | Pipeline finished.
 
 ## What I learned
