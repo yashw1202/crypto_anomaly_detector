@@ -1,0 +1,15 @@
+2026-04-26 01:44:18,844 | INFO | Pipeline started.
+2026-04-26 01:44:20,614 | INFO | Fetched 5 records.
+2026-04-26 01:44:20,632 | INFO | Data cleaning complete.
+2026-04-26 01:44:20,644 | INFO | Saved 5 rows to database.
+2026-04-26 01:44:20,647 | INFO | No anomalies detected.
+2026-04-26 01:44:20,647 | INFO | Pipeline finished.
+
+2026-04-26 01:44:20,648 | INFO | Scheduler started. Running every 5 minutes.
+2026-04-26 01:49:20,822 | INFO | Pipeline started.
+2026-04-26 01:49:23,839 | INFO | Fetched 5 records.
+2026-04-26 01:49:23,845 | INFO | Data cleaning complete.
+2026-04-26 01:49:23,860 | INFO | Saved 5 rows to database.
+2026-04-26 01:49:23,862 | INFO | No anomalies detected.
+2026-04-26 01:49:23,862 | INFO | Pipeline finished.
+
