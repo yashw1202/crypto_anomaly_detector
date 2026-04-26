@@ -23,23 +23,18 @@ running automatically on a schedule.
 - CoinGecko API —> live market data source
 
 ## Project Structure
-
+```
 crypto_pipeline/
 │
-
-├── ingestion/ # data fetching from API
-
-├── processing/ # cleaning and anomaly detection
-
-├── storage/ # database setup and writes
-
-├── logs/ # daily pipeline logs
-
-├── logger.py # logging config
-
-├── main.py # pipeline entry point
-
-└── requirements.txt
+├── ingestion/        # data fetching from API
+├── processing/       # cleaning and anomaly detection
+├── storage/          # database setup and writes
+├── logs/             # daily pipeline logs
+├── logger.py         # logging config
+├── main.py           # pipeline entry point
+├── requirements.txt
+└── README.md
+```
 
 ## How to run
 
